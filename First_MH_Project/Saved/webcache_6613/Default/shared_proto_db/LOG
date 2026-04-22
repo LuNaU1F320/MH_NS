@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+2026/04/22-16:00:44.161 fc8 Creating DB C:\workspace\Github\MH_NS\First_MH_Project\Saved\webcache_6613\Default\shared_proto_db since it was missing.
+2026/04/22-16:00:44.165 fc8 Reusing MANIFEST C:\workspace\Github\MH_NS\First_MH_Project\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+=======
+2026/04/22-18:24:20.011 6838 Reusing MANIFEST C:\workspace\Github\MH_NS\First_MH_Project\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
+2026/04/22-18:24:20.012 6838 Recovering log #3
+2026/04/22-18:24:20.012 6838 Reusing old log C:\workspace\Github\MH_NS\First_MH_Project\Saved\webcache_6613\Default\shared_proto_db/000003.log 
+>>>>>>> Monster
