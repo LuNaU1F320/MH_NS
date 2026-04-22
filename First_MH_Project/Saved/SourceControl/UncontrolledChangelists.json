@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Levels/MainLevel.umap",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/Body/em002_00_ALBD.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/Body/em002_00_ALP.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/Body/em002_00_CMM.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/Body/em002_00_damage_ALBD.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/Body/em002_00_damage_ALP.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/Body/em002_00_damage_NRRT.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/Body/em002_00_eye_ALBD.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/Body/em002_00_eye_EMI.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/Body/em002_00_eye_NRMR.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/Body/em002_00_NRRT.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/Body/MOD_Body_PhysicsAsset.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/Body/MOD_Body_Skeleton.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/Body/body.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/Body/Eye.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/Body/wing.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/Body/em_damage.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/Body/MOD_Body.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Animations/Monseter/Walk.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Levels/PlayerLevel.umap",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Levels/MonsterLevel.umap",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/BluePrints/Monster/BP_Rathalos.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/BluePrints/Monster/E_RathalosState.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Animations/Monseter/ABP_Rathalos.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/BluePrints/Monster/E_MonsterState.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Animations/Monseter/WaitIdle.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Animations/Monseter/Run.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Animations/Monseter/Idle.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Levels/NewWorld.umap",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/afds/MOD_Body.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/afds/em_damage.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/afds/wing.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/afds/Eye.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/afds/body.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/afds/MOD_Body_Skeleton.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/afds/MOD_Body_PhysicsAsset.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/afds/em002_00_eye_EMI.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/afds/em002_00_damage_NRRT.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/afds/em002_00_damage_ALP.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/afds/em002_00_CMM.uasset",
+				"C:/workspace/Github/MH_NS/First_MH_Project/Content/Models/Monster/afds/em002_00_ALP.uasset"
+			]
+		}
+	]
+}
