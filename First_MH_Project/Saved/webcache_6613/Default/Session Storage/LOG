@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 2026/04/22-16:00:46.210 608c Creating DB C:\workspace\Github\MH_NS\First_MH_Project\Saved\webcache_6613\Default\Session Storage since it was missing.
 2026/04/22-16:00:46.221 608c Reusing MANIFEST C:\workspace\Github\MH_NS\First_MH_Project\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+=======
+2026/04/22-18:24:22.366 6ffc Reusing MANIFEST C:\workspace\Github\MH_NS\First_MH_Project\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+2026/04/22-18:24:22.367 6ffc Recovering log #3
+2026/04/22-18:24:22.370 6ffc Reusing old log C:\workspace\Github\MH_NS\First_MH_Project\Saved\webcache_6613\Default\Session Storage/000003.log 
+>>>>>>> Monster
