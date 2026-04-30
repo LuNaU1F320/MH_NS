@@ -1,9 +1,12 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-# Unreal Engine binary files
+# Unreal Engine Assets
 *.uasset filter=lfs diff=lfs merge=lfs -text lockable
 *.umap filter=lfs diff=lfs merge=lfs -text lockable
-*.uproject filter=lfs diff=lfs merge=lfs -text
+*.uexp filter=lfs diff=lfs merge=lfs -text lockable
+*.ubulk filter=lfs diff=lfs merge=lfs -text lockable
+*.uptnl filter=lfs diff=lfs merge=lfs -text lockable
+
 # Pak files
 *.pak filter=lfs diff=lfs merge=lfs -text
 # Audio
